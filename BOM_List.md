@@ -9,7 +9,7 @@
 
 # Brushless DC Motor Controller
 
-1. Brushless DC Motor:
+1. Brushless DC Motor: REV NEO Brushless Outrunner 3-Phase
 2. Diodes: 
 3. FETS:
 4. Resistors:
